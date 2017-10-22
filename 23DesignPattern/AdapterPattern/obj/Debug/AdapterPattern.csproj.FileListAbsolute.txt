@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
