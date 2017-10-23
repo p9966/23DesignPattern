@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\FactoryFunction\bin\Debug\FactoryFunction.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FactoryFunction\bin\Debug\FactoryFunction.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\FactoryFunction\obj\Debug\FactoryFunction.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\FactoryFunction\obj\Debug\FactoryFunction.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FactoryFunction\obj\Debug\FactoryFunction.pdb

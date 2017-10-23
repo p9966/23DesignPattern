@@ -2,3 +2,4 @@ E:\GitHub\23DesignPattern\23DesignPattern\ChainOfResponsibility\bin\Debug\ChainO
 E:\GitHub\23DesignPattern\23DesignPattern\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
 E:\GitHub\23DesignPattern\23DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
 E:\GitHub\23DesignPattern\23DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
