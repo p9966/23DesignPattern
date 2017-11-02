@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\CompositePattern\obj\Debug\CompositePattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\CompositePattern\obj\Debug\CompositePattern.pdb
