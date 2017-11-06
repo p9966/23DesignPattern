@@ -1,0 +1,9 @@
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.FrmMain.resources
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.FrmSingleton.resources
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.Properties.Resources.resources
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.GenerateResource.Cache
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
