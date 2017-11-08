@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\FacadePattern\bin\Debug\FacadePattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FacadePattern\bin\Debug\FacadePattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\FacadePattern\obj\Debug\FacadePattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FacadePattern\obj\Debug\FacadePattern.pdb
