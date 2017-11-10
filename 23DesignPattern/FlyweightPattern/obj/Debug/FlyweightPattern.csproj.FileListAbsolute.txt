@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
