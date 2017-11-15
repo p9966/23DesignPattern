@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
