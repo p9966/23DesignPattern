@@ -1,0 +1,8 @@
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\bin\Debug\CommandPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.frmMain.resources
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.Properties.Resources.resources
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.csproj.GenerateResource.Cache
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb
