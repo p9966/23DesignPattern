@@ -1,0 +1,5 @@
+E:\GitHub\23DesignPattern\23DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+E:\GitHub\23DesignPattern\23DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.csprojResolveAssemblyReference.cache

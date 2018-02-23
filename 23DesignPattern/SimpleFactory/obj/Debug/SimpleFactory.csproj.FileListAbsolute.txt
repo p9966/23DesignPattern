@@ -5,3 +5,6 @@ E:\GitHub\SimpleDemo\23DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
 E:\GitHub\SimpleDemo\23DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
 E:\GitHub\23DesignPattern\23DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
 E:\GitHub\23DesignPattern\23DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.exe
+E:\GitHub\23DesignPattern\23DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.pdb
+E:\GitHub\23DesignPattern\23DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
